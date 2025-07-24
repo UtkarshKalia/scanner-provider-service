@@ -1,0 +1,24 @@
+{
+  "name": "scanner-provider-service",
+  "version": "1.0.0",
+  "description": "Backend for our project",
+  "keywords": [
+    "Scanner",
+    "Backend"
+  ],
+  "homepage": "https://github.com/UtkarshKalia/scanner-provider-service#readme",
+  "bugs": {
+    "url": "https://github.com/UtkarshKalia/scanner-provider-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshKalia/scanner-provider-service.git"
+  },
+  "license": "ISC",
+  "author": "Utkarsh Kalia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
